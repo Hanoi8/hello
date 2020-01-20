@@ -12,3 +12,9 @@ public class Main{
 ```
 
 <http://google.com>
+
+## gitの処理の順番
+
+1. 作業フォルダーで作業する
+1. git add してステージエリアに上げる
+1. git commit -m"メッセージ"する
